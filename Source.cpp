@@ -13,7 +13,6 @@ int main() {
 	num = Fraction1 + Fraction2;
 	num.print();
 
-
 	cout << "\nВычитание:\n\t";
 
 	num = Fraction1 - Fraction2;
